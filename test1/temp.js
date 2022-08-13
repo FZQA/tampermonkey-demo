@@ -7,7 +7,7 @@
 // @match        *://*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
-//@license       AGPL-3.0
+// @license       AGPL-3.0
 // ==/UserScript==
 
 (function() {
